@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Haochen Chen</title>
+    <link>https://gtmac.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Haochen Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://gtmac.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K Recommendation</title>
+      <link>https://gtmac.github.io/publication/pseudo-implicit-feedback/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://gtmac.github.io/publication/pseudo-implicit-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Network Embeddings via Exploiting Edge Attributes</title>
+      <link>https://gtmac.github.io/publication/network-embeddings-edge/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://gtmac.github.io/publication/network-embeddings-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HARP: Hierarchical Representation Learning for Networks</title>
+      <link>https://gtmac.github.io/publication/harp/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://gtmac.github.io/publication/harp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBrowse: Similarity-Based Browsing Through Large Lists</title>
+      <link>https://gtmac.github.io/publication/deepbrowse/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://gtmac.github.io/publication/deepbrowse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don’t Walk, Skip!: Online Learning of Multi-scale Network Embeddings</title>
+      <link>https://gtmac.github.io/publication/walklets/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://gtmac.github.io/publication/walklets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
